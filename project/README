@@ -4,7 +4,7 @@
 
 2.this project uses mysql connector version 8.023
 
-3. Open project -> "OurEdit2" in 350-project folder
+3. Open project -> "OurEdit2" in project folder
 
 4. change in OurEditServer, Document and Users classes the jdbc link (root and password also) to your own jdbc link so you can link your own MySQL database to the project
 
@@ -14,6 +14,6 @@
 
 7.Run mmyedits class, which will start up the GUI
 
-Now you can log in from any of the three users present in the users table once the login window shows up
+Now you can log in from any of the three users present in the users table once the login window shows up, or even create your own account if you're feeling brave
 
-and try the functionalities!
+Happy trial!
