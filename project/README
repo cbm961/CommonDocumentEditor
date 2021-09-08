@@ -1,1 +1,19 @@
-f
+0. change the location of the project to C:\\Users\\User\\Desktop so that the background image of GUI can show up
+
+1.open your IDE that can run java
+
+2.this project uses mysql connector version 8.023
+
+3. Open project -> "OurEdit2" in 350-project folder
+
+4. change in OurEditServer, Document and Users classes the jdbc link (root and password also) to your own jdbc link so you can link your own MySQL database to the project
+
+5. add the OurEdit.sql to your database server, execute it and refresh to load the tables needed with sample data
+
+6. Run "OurEditServer" class first
+
+7.Run mmyedits class, which will start up the GUI
+
+Now you can log in from any of the three users present in the users table once the login window shows up
+
+and try the functionalities!
